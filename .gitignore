@@ -46,3 +46,6 @@ Thumbs.db
 *.mp4
 *.mov
 
+# 3D Modeling
+*.fbx
+*.obj
