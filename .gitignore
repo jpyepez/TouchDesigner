@@ -39,6 +39,7 @@ Thumbs.db
 
 # Audio
 #######
+*.mp3
 *.wav
 
 # Video
@@ -47,5 +48,6 @@ Thumbs.db
 *.mov
 
 # 3D Modeling
+#############
 *.fbx
 *.obj
